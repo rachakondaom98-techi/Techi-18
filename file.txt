@@ -1,1 +1,3 @@
-Hello from main branch updated
+# resolve conflictHello from main branch updated
+git add file.txt
+git commit -m "Resolved merge conflict"
